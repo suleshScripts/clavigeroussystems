@@ -1432,6 +1432,10 @@ a {
 .footer-content1 figure {
   margin-bottom: 12px;
 }
+.footer-content1 figure img{
+  width: 200px;
+  height: 70px;
+}
 .footer-content1 {
   padding-left: 0px;
   padding-right: 0px;
